@@ -4,7 +4,9 @@
 
 [![NPM](https://img.shields.io/npm/v/update-markdown-jsdoc.svg)](https://www.npmjs.com/package/update-markdown-jsdoc) [![Build Status](https://travis-ci.com/transitive-bullshit/update-markdown-jsdoc.svg?branch=master)](https://travis-ci.com/transitive-bullshit/update-markdown-jsdoc) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-TODO
+This tiny CLI allows you to quickly generate and update quality readme JSDoc documentation.
+
+Here is an [example](https://github.com/transitive-bullshit/puppeteer-github) of the generated docs. Note that the `API` section is auto-generated, whereas the rest of the readme is editable like normal.
 
 ## Install
 
@@ -15,7 +17,7 @@ npm install -g update-markdown-jsdoc
 ## Usage
 
 ```bash
-  Usage: index update-markdown-usage [options]
+  Usage: update-markdown-jsdoc [options]
 
   Options:
 
@@ -28,7 +30,7 @@ npm install -g update-markdown-jsdoc
 
 ## Related
 
--   [update-markdown-usage](https://github.com/transitive-bullshit/update-markdown-usage) - Analogous to this module but for CLI programs instead of jsdoc libraries.
+-   [update-markdown-usage](https://github.com/transitive-bullshit/update-markdown-usage) - Same as this module but for CLI programs instead of jsdoc libraries.
 -   [documentation.js](https://github.com/documentationjs/documentation) - JSDoc documentation generator which this module is based on.
 -   [jsdoc](http://usejsdoc.org/) - JSDoc documentation standard.
 
