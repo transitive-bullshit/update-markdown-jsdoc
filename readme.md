@@ -4,7 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/update-markdown-jsdoc.svg)](https://www.npmjs.com/package/update-markdown-jsdoc) [![Build Status](https://travis-ci.com/transitive-bullshit/update-markdown-jsdoc.svg?branch=master)](https://travis-ci.com/transitive-bullshit/update-markdown-jsdoc) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-This tiny CLI allows you to quickly generate and update quality readme JSDoc documentation.
+This CLI allows you to quickly generate and update quality readme JSDoc documentation.
 
 Here is an [example](https://github.com/transitive-bullshit/puppeteer-github) of the generated docs. Note that the `API` section is auto-generated, whereas the rest of the readme is editable like normal.
 
