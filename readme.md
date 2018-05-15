@@ -28,9 +28,9 @@ npm install -g update-markdown-jsdoc
 
 ## Related
 
--   [update-markdown-usage](https://github.com/transitive-bullshit/update-markdown-usage) - Does the same thing as this module but for CLI programs instead of jsdoc-documented libraries.
--   [documentation.js](https://github.com/documentationjs/documentation) - JSDoc-based documentation which this module is based on.
--   [jsdoc](http://usejsdoc.org/) - JS documentation standard.
+-   [update-markdown-usage](https://github.com/transitive-bullshit/update-markdown-usage) - Analogous to this module but for CLI programs instead of jsdoc libraries.
+-   [documentation.js](https://github.com/documentationjs/documentation) - JSDoc documentation generator which this module is based on.
+-   [jsdoc](http://usejsdoc.org/) - JSDoc documentation standard.
 
 ## License
 
