@@ -1,0 +1,38 @@
+{
+  "name": "update-markdown-jsdoc",
+  "version": "0.0.1",
+  "description": "Updates a markdown document section with jsdoc documentation.",
+  "main": "index.js",
+  "repository": "transitive-bullshit/update-markdown-jsdoc",
+  "author": "Travis Fischer <travis@automagical.ai>",
+  "license": "MIT",
+  "bin": {
+    "update-markdown-jsdoc": "index.js"
+  },
+  "scripts": {
+    "docs": "node index.js --help | update-markdown-usage -w readme.md",
+    "test": "ava -v && standard"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "keywords": [
+    "markdown",
+    "jsdoc",
+    "documentation",
+    "readme",
+    "update"
+  ],
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "standard": "^11.0.0",
+    "update-markdown-usage": "^1.0.0"
+  },
+  "dependencies": {
+    "commander": "^2.15.1",
+    "documentation-custom-markdown": "^6.3.2",
+    "execa": "^0.10.0",
+    "node-compat-require": "^1.0.3",
+    "read-pkg-up": "^3.0.0"
+  }
+}
