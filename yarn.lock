@@ -2027,9 +2027,9 @@ doctrine@^2.0.2, doctrine@^2.1.0:
   dependencies:
     esutils "^2.0.2"
 
-documentation-custom-markdown@^6.3.2:
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/documentation-custom-markdown/-/documentation-custom-markdown-6.3.2.tgz#b13f2cc9f66a4b7f7e6b7864f922a7f79e2ede4f"
+documentation-custom-markdown@^6.3.4:
+  version "6.3.4"
+  resolved "https://registry.yarnpkg.com/documentation-custom-markdown/-/documentation-custom-markdown-6.3.4.tgz#564cba9e1cb409250675abd72a4f0cd608815eeb"
   dependencies:
     ansi-html "^0.0.7"
     babel-core "^6.26.0"
