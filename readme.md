@@ -24,6 +24,7 @@ npm install -g update-markdown-jsdoc
     -V, --version           output the version number
     -f, --file <filename>   markdown file to update (defaults to local readme)
     -s, --section <string>  name of markdown section to update (default: api)
+    -S, --shallow           enable shallow mode
     -h, --help              output usage information
 ```
 

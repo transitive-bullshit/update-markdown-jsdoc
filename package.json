@@ -10,7 +10,7 @@
     "update-markdown-jsdoc": "index.js"
   },
   "scripts": {
-    "docs": "node index.js --help | update-markdown-usage -w readme.md",
+    "docs": "update-markdown-usage",
     "test": "ava -v && standard"
   },
   "engines": {
@@ -26,7 +26,7 @@
   "devDependencies": {
     "ava": "^0.25.0",
     "standard": "^11.0.0",
-    "update-markdown-usage": "^1.0.0"
+    "update-markdown-usage": "^1.0.1"
   },
   "dependencies": {
     "commander": "^2.15.1",
