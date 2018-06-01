@@ -1,6 +1,6 @@
 {
   "name": "update-markdown-jsdoc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Updates a markdown document section with jsdoc documentation.",
   "main": "index.js",
   "repository": "transitive-bullshit/update-markdown-jsdoc",
