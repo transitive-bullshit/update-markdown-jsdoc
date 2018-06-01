@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "commander": "^2.15.1",
-    "documentation-custom-markdown": "^6.3.4",
+    "documentation-custom-markdown": "^6.3.5",
     "execa": "^0.10.0",
     "node-compat-require": "^1.0.3",
     "read-pkg-up": "^3.0.0"
