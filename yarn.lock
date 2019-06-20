@@ -6007,10 +6007,10 @@ upath@^1.0.0:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/upath/-/upath-1.0.5.tgz#02cab9ecebe95bbec6d5fc2566325725ab6d1a73"
 
-update-markdown-usage@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/update-markdown-usage/-/update-markdown-usage-1.0.4.tgz#9856833505f2bcce695a1d2ee80b6d52fc5d136c"
-  integrity sha512-I4OHv3/XMXC6Me9LbDZCFPsrh3Ra3rz8I71lJH52LAJXFiQuHVXZ/l4HDT8I0Jg4izeuQxk49r8ZhEKB+MRqQA==
+update-markdown-usage@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/update-markdown-usage/-/update-markdown-usage-1.0.5.tgz#053d2e6cb6ebe6c9f5c9abfebd668c6d2f61e713"
+  integrity sha512-9AXMZCPqFI9CpAIINFQPmNFv/EZTq7oMq8QHK1vuz5f3Qn5iHX1WxmEExFOBUYtuDaG4YTh0O37QOgj1QzaWsQ==
   dependencies:
     commander "^2.20.0"
     execa "^1.0.0"
