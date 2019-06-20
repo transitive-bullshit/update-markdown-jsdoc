@@ -14,7 +14,7 @@
     "test": "ava -v && standard"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=8"
   },
   "keywords": [
     "markdown",
@@ -26,7 +26,7 @@
   "devDependencies": {
     "ava": "^2.1.0",
     "standard": "^12.0.1",
-    "update-markdown-usage": "^1.0.1"
+    "update-markdown-usage": "^1.0.2"
   },
   "dependencies": {
     "commander": "^2.20.0",
