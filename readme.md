@@ -26,4 +26,4 @@ npm install -g update-markdown-jsdoc
 
 ## License
 
-MIT © [Travis Fischer](https://github-cli.com/transitive-bullshit)
+MIT © [Travis Fischer](https://transitivebullsh.it)
